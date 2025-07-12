@@ -3,7 +3,6 @@
 ## 🎬 视频教程
 
 - **YouTube**：[国内永久免费全球加速访问方案 | 优于CF加速| EdgeOne](https://youtu.be/Y1KESj2hQh8)
-<iframe src="https://www.youtube.com/embed/Y1KESj2hQh8" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe> 
 
 ## 简介：什么是 EdgeOne？
 
